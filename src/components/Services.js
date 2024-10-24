@@ -10,8 +10,8 @@ function Services(){
         </div>
 
         <div className="row gap-2 d-flex justify-content-center btns">
-        <NavLink to="/services/placements"><Button variant="primary" className="col-md-12" >Our Placements</Button></NavLink>
-        <NavLink to="/services/events"><Button variant="primary" className="col-md-12" >Our Events</Button></NavLink>  
+        <NavLink to="/services/placements"><Button variant="primary" className="col-md-12 col-sm-12" >Our Placements</Button></NavLink>
+        <NavLink to="/services/events"><Button variant="primary" className="col-md-12 col-sm-12" >Our Events</Button></NavLink>  
         </div>
         </div>
     )
